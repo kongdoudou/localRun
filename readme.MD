@@ -38,4 +38,5 @@ $ DEBUG=myapp:* npm start
     ├── index.vm
     └── test.vm             # 测试组件
 
+
 ```
