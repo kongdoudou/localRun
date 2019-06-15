@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="stylesheets/style.css">
+    <link rel="stylesheet" type="text/css" href="//static.iqiyi.com/css/common/topic-common-h51.test.css">
+    <script charset="utf-8" type="text/javascript" src="//static.iqiyi.com/js/common/lib_jq.js"></script>
+    <script charset="utf-8" type="text/javascript" src="//static.iqiyi.com/js/common/h5Common.2.0.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+    #parse('test.vm')
+</body>
+</html>
