@@ -28,7 +28,7 @@ $ DEBUG=myapp:* npm start
 ├── public
 │   ├── images
 │   ├── javascripts
-    │   └── changeColor.js  # 引入的JS文件
+│   │   └── changeColor.js  # 引入的JS文件
 │   └── stylesheets
 │       └── style.css       # 引入的css文件
 ├── routes
